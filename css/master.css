@@ -1,3 +1,78 @@
-.body {
+body {
 	background-color: black;
+	text-align: center;
+	}
+	
+.header {
+	width: 100%;
+	}
+	
+.box {
+	background-color: white;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	padding-top: 1vw;
+  	padding-bottom: 1vw;
+	}
+	
+.logo {
+	width: 30%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 1vw;
+	}
+	
+h1 {
+	font-family: Palatino;
+	color: white;
+	font-size: 6vw;
+	text-align: center;
+	margin-bottom: 1vw;
+	margin-top: 1vw;
+	}
+	
+.icons {
+	width: 10vw;
+	margin: auto;
+	}
+	
+.flex {
+	display: flex;
+	align-items: baseline;
+	}
+	
+h2 {
+	font-size: 3vw;
+	font-family: 'Catamaran', sans-serif;
+	font-weight: bold;
+	padding-bottom: 2vw;
+	}
+	
+p {
+	color: white;
+	padding: 2vw;
+	font-family: Helvetica;
+	}
+	
+.video {
+	width: 50vw;
+	height: 30vw;
+	}
+	
+.description {
+	color: black;
+	margin: auto;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 1.5vw;
+	}
+	
+.resized {
+	font-size: 2vw;
+	}
+	
+.bold {
+	font-weight: bold;
+	font-size: 2.5vw;
 	}
